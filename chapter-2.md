@@ -13,7 +13,7 @@ excerpt: "This is a free excerpt of the chapter. To see the rest, you'll have to
 - **bold**
 - *emphasized*
 - `highlighted`
-- regular texT
+- regular text
 
 
 ```
